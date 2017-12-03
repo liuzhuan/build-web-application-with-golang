@@ -1,26 +1,12 @@
-# Multiple Language Versions
+# Go Web 编程
 
-* [Deutsch](de/preface.md)
-* [English](en/preface.md)
-* [Español](es/preface.md)
-* [Français](fr/preface.md)
-* [Português - Brasil](pt-br/preface.md)
-* [Русский](ru/preface.md)
-* [Türkçe](tr/preface.md)
-* [বাংলা](bn/preface.md)
-* [日本語](ja/preface.md)
-* [中文](zh/preface.md)
+本书来自谢孟军先生编著的《Go Web 编程》。
 
-# Donate
+为了便于在 kindle 上阅读，所以移植到了 gitbook 平台。因为只会中文，所以删除了其他的语种。
 
-AliPay: <img src="zh/images/alipay.png" alt="alipay" width="100" height="100">
+尽量保证与原始书籍的同步更新。
 
-English Donate:[donate](http://beego.me/donate)
-
-## Community
-QQ群：148647580
-
-BBS：[http://gocn.io/](http://gocn.io/)
+原始开源书在线地址：https://github.com/astaxie/build-web-application-with-golang
 
 ## Contributors
 
